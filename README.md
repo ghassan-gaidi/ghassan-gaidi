@@ -17,50 +17,29 @@
 
 ## 🔭 Current Focus
 
-Building the **[Crypto Experiment](https://github.com/ghassan-gaidi/crypto-experiment)** — an autonomous multichain revenue pipeline that farms quests, mints gasless NFTs, detects MEV, scans airdrops, and consolidates dust. All with **$0 starting capital**, zero social credentials, no KYC. 8 automated workflows on GitHub Actions, one empty wallet, and a thesis: *can you bootstrap on-chain income from nothing?*
-
-Also running:
-- **[drops.codes](https://dropscodes.vercel.app)** — file sharing SaaS on Next.js 16 + Supabase + Dodo Payments (private beta)
-- **[Crypto Empire](https://t.me/Crypt0Emp1reBot)** — Telegram crypto dashboard + premium via Polar.sh
-- **[Neura](https://neura-blond.vercel.app)** — AI Agent Backend + SDKs published to npm and PyPI
+Building autonomous revenue pipelines, AI agent infrastructure, and developer tools. Shipping to production from zero capital.
 
 ---
 
-## 🚀 Featured Public Projects
+## 🚀 Projects
 
 | Project | What It Does | Stack | Status |
 |---------|-------------|-------|--------|
-| **[🧪 Crypto Experiment](https://github.com/ghassan-gaidi/crypto-experiment)** | Autonomous gasless revenue pipeline — 8 GH Actions workflows farming airdrops, MEV alerts, NFT mints | Python, web3.py, GH Actions | 🟢 Live |
-| **[📰 Binance Square Portal](https://github.com/ghassan-gaidi/binance-square-portal)** | Autonomous crypto content engine — write once, publish to Binance Square + Telegram | Python, React, Vite, Telegram API | 🟢 Live |
-| **[🪙 Binance Square Crypto Bot](https://github.com/ghassan-gaidi/binance-square-crypto-bot)** | Auto-post crypto insights to Binance Square on cron via CoinGecko API | Python, GH Actions | 🟢 Live |
-| **[🧠 Finetune Lab](https://github.com/ghassan-gaidi/finetune-lab)** | LLM fine-tuning notebooks that run on free GPUs (Colab, Kaggle) — no paid compute | Python, LoRA/QLoRA, Colab | 🟢 Live |
-| **[🤝 ChainFund](https://github.com/ghassan-gaidi/ChainFund)** | Blockchain micro-donation platform for social causes — hackathon project | React, Node.js, Solidity, Web3 | 🗄️ Complete |
-| **[📡 Microstrip Patch Antenna](https://github.com/ghassan-gaidi/microstrip-patch-antenna-2.4ghz-matlab)** | 2.4 GHz antenna design in MATLAB Antenna Toolbox — FR4 substrate, full RF characterization | MATLAB | 🗄️ Complete |
-
----
-
-## 🔒 What I'm Building (Private / Beta)
-
-These are active projects — some visible as GitHub Pages or live URLs, codebase private. Ask if you'd like a walkthrough.
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| **[drops.codes](https://dropscodes.vercel.app)** — File sharing with payments | Next.js 16, Supabase, Dodo Payments | 🟡 Private Beta |
-| **[Crypto Empire](https://crypto-empire-ten.vercel.app)** — Dashboard + TG bot with premium | Flask, Python, Polar.sh | 🟡 Private Beta |
-| **[Neura](https://neura-blond.vercel.app)** — AI Agent Backend + npm/PyPI SDKs | Next.js, Supabase, Base USDC | 🟡 Private Beta |
-| **[Crypto Casino](https://crypto-casino-tg.vercel.app)** — Multi-chain casino in Telegram | React, TypeScript, Web3 | 🔒 In Development |
-| **[VOID CONSTRUCT](https://github.com/ghassan-gaidi/void-construct)** — Generative 3D NFT collection | Blender, Python on-chain | 🔒 In Development |
-| **[Portfolio Site](https://portfolio-site-sigma-snowy.vercel.app)** — Terminal-themed portfolio | Next.js, Supabase, Vercel | 🟢 Live (private repo) |
+| **[🧠 Neura](https://github.com/ghassan-gaidi/neura)** | AI Agent Backend + SDKs — external brain for autonomous agents | Next.js, Supabase, Base USDC | 🟢 [Live](https://neura-blond.vercel.app) · [npm](https://www.npmjs.com/package/neura-api) · [PyPI](https://pypi.org/project/neura-api/) |
+| **[📁 drops.codes](https://github.com/ghassan-gaidi/drops.codes)** | File sharing platform — upload, share, track, with payments | Next.js 16, Supabase, Dodo Payments | 🟢 [Live](https://dropscodes.vercel.app) |
+| **[💰 Crypto Empire](https://github.com/ghassan-gaidi/crypto-empire)** | Crypto dashboard + Telegram bot with premium subscriptions | Flask, Python, CoinGecko, Polar.sh | 🟢 [Live](https://crypto-empire-ten.vercel.app) · [@Crypt0Emp1reBot](https://t.me/Crypt0Emp1reBot) |
+| **[🎰 Crypto Casino TG](https://github.com/ghassan-gaidi/crypto-casino-tg)** | Multi-chain crypto casino inside Telegram — 9 provably fair games | React, TypeScript, Web3, Telegram Mini App | 🟢 [Live](https://crypto-casino-tg.vercel.app) · [@cr00k_bot](https://t.me/cr00k_bot) |
+| **[🧪 Finetune Lab](https://github.com/ghassan-gaidi/finetune-lab)** | LLM fine-tuning notebooks on free GPUs (Colab, Kaggle) — no paid compute | Python, LoRA/QLoRA, Colab | 🟢 [Repo](https://github.com/ghassan-gaidi/finetune-lab) |
 
 ---
 
 ## 🛠️ Stack
 
 ```
-Languages    Python · TypeScript · JavaScript · Solidity · MATLAB
+Languages    Python · TypeScript · JavaScript · Solidity
 Frameworks   Next.js 16 · React 18 · Flask 3.0 · Vite
 DB/Infra     Supabase (Postgres) · Vercel · GitHub Actions
-Blockchain   Ethereum · Base · Arbitrum · Polygon · Zora
+Blockchain   Ethereum · Base · Arbitrum · Polygon · TON · Solana
 Payments     Base USDC · Dodo Payments · Polar.sh
 AI/ML        LoRA · QLoRA · fine-tuning · LLM agent infrastructure
 Design       Brutalist monochrome · JetBrains Mono · zero border-radius
@@ -89,10 +68,12 @@ SDKs Shipped neura-api (npm) · neura-api-python (PyPI)
 [![Telegram](https://img.shields.io/badge/@le0Fvlc0-181717?style=flat&logo=telegram&labelColor=0d0d0d)](https://t.me/le0Fvlc0)
 [![LinkedIn](https://img.shields.io/badge/ghassan--gaidi-181717?style=flat&logo=linkedin&labelColor=0d0d0d)](https://linkedin.com/in/ghassan-gaidi-4637b3319)
 
+</div>
+
 ---
 
 <div align="center">
 
-*Zero starting capital. Zero shortcuts. 23 repos and counting.*
+*Zero starting capital. Zero shortcuts. Shipping from nothing.*
 
 </div>
