@@ -30,9 +30,7 @@ Autonomous systems that generate value on-chain and off-chain — from AI agent 
 
 | Project | What It Does |
 |---------|-------------|
-| **[A-Team CLI](https://github.com/ghassan-gaidi/A-Team-CLI)** | Multi-agent terminal orchestrator for AI collaboration |
 | **[Finetune Lab](https://github.com/ghassan-gaidi/finetune-lab)** | LLM fine-tuning notebooks on free GPU compute |
-| **[Generative NFT Collection](https://github.com/ghassan-gaidi/generative-nft-collection)** | AI-powered layered NFT art engine |
 
 ---
 
