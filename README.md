@@ -1,24 +1,81 @@
-# 💫 About Me:
-About Me<br><br>Ghassan, 21, Computer Science student<br><br>Focused on continuous skill development and execution-driven learning<br><br>Interested in fintech and open to collaboration on finance-focused projects<br><br>Open to startup ideas and early-stage product building<br><br>Always ready to learn, support, and deliver value
+<div align="center">
 
+# Ghassan Gaidi
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GaidiGhassan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghassan.2574) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghassan-gaidi-4637b3319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gg2574@proton.me) 
+**Full-stack autonomous systems engineer building self-sustaining crypto revenue pipelines, AI agent infrastructure, and developer tools.**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghassan-gaidi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ghassan-gaidi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassan-gaidi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/portfolio-ghassan.tech-black)](https://ghassan.tech)
+[![GitHub](https://img.shields.io/badge/github-ghassan--gaidi-181717)](https://github.com/ghassan-gaidi)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ghassan-gaidi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ghassan-gaidi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ghassan-gaidi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Build
+
+Autonomous systems that generate value on-chain and off-chain — from AI agent backends to gasless revenue pipelines to developer SDKs.
+
+### Live Projects
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **[Neura](https://github.com/ghassan-gaidi/neura)** | AI Agent Backend + SDKs (npm + PyPI) | Next.js, Supabase, Base USDC |
+| **[Crypto Empire](https://github.com/ghassan-gaidi/crypto-empire)** | Crypto Dashboard + Telegram Bot | Flask, CoinGecko, Polar.sh |
+| **[drops.codes](https://github.com/ghassan-gaidi/drops.codes)** | File Sharing Platform | Next.js 16, Supabase, Dodo Payments |
+| **[Binance Square Portal](https://github.com/ghassan-gaidi/binance-square-portal)** | Autonomous Crypto Content Engine | Python, Telegram Bot, Binance API |
+| **[Crypto Experiment](https://github.com/ghassan-gaidi/crypto-experiment)** | Gasless Revenue Pipeline + Airdrop Farmer | Python, web3.py, GH Actions |
+| **[Portfolio Site](https://github.com/ghassan-gaidi/portfolio-site)** | This very profile → [ghassan.tech](https://ghassan.tech) | Next.js 16, Supabase, Vercel |
+
+### Other Work
+
+| Project | What It Does |
+|---------|-------------|
+| **[A-Team CLI](https://github.com/ghassan-gaidi/A-Team-CLI)** | Multi-agent terminal orchestrator for AI collaboration |
+| **[Finetune Lab](https://github.com/ghassan-gaidi/finetune-lab)** | LLM fine-tuning notebooks on free GPU compute |
+| **[Generative NFT Collection](https://github.com/ghassan-gaidi/generative-nft-collection)** | AI-powered layered NFT art engine |
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages    Python · TypeScript · JavaScript · Solidity
+Frameworks   Next.js 16 · React 18 · Flask 3.0 · Vite
+Infrastructure  Vercel · Supabase · GitHub Actions
+Blockchain   Ethereum · Base · Arbitrum · Polygon · Zora
+Payments     Base USDC (on-chain) · Dodo Payments · Polar.sh
+Automation   Hermes Agent · Telegram Bot API · GH Actions Cron
+Design       Brutalist monochrome · JetBrains Mono · Terminal UI
+SDKs Built   neura-api (npm) · neura-api-python (PyPI)
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassan-gaidi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassan-gaidi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=ghassan-gaidi&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+[![GitHub](https://img.shields.io/badge/github-ghassan--gaidi-181717?logo=github)](https://github.com/ghassan-gaidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghassan-gaidi-4637b3319)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gg2574@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/le0Fvlc0)
+
+---
+
+<div align="center">
+
+*Building autonomous systems that work while I sleep.*
+
+</div>
