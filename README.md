@@ -27,8 +27,8 @@ Building autonomous revenue pipelines, AI agent infrastructure, and developer to
 |---------|-------------|-------|--------|
 | **[🧠 Neura](https://github.com/ghassan-gaidi/neura)** | AI Agent Backend + SDKs — external brain for autonomous agents | Next.js, Supabase, Base USDC | 🟢 [Live](https://neura-blond.vercel.app) · [npm](https://www.npmjs.com/package/neura-api) · [PyPI](https://pypi.org/project/neura-api/) |
 | **[📁 drops.codes](https://github.com/ghassan-gaidi/drops.codes)** | File sharing platform — upload, share, track, with payments | Next.js 16, Supabase, Dodo Payments | 🟢 [Live](https://dropscodes.vercel.app) |
-| **[💰 Crypto Empire](https://github.com/ghassan-gaidi/crypto-empire)** | Crypto dashboard + Telegram bot with premium subscriptions | Flask, Python, CoinGecko, Polar.sh | 🟢 [Live](https://crypto-empire-ten.vercel.app) · [@Crypt0Emp1reBot](https://t.me/Crypt0Emp1reBot) |
-| **[🎰 Crypto Casino TG](https://github.com/ghassan-gaidi/crypto-casino-tg)** | Multi-chain crypto casino inside Telegram — 9 provably fair games | React, TypeScript, Web3, Telegram Mini App | 🟢 [Live](https://crypto-casino-tg.vercel.app) · [@cr00k_bot](https://t.me/cr00k_bot) |
+| **[Dominion](https://github.com/ghassan-gaidi/crypto-empire)** | Crypto dashboard + Telegram bot with premium subscriptions | Flask, Python, CoinGecko, Polar.sh | 🟢 [Live](https://crypto-empire-ten.vercel.app) · [@Crypt0Emp1reBot](https://t.me/Crypt0Emp1reBot) |
+| **[PICKR](https://github.com/ghassan-gaidi/crypto-casino-tg)** | Multi-chain crypto casino inside Telegram — 9 provably fair games | React, TypeScript, Web3, Telegram Mini App | 🟢 [Live](https://crypto-casino-tg.vercel.app) · [@cr00k_bot](https://t.me/cr00k_bot) |
 | **[🧪 Finetune Lab](https://github.com/ghassan-gaidi/finetune-lab)** | LLM fine-tuning notebooks on free GPUs (Colab, Kaggle) — no paid compute | Python, LoRA/QLoRA, Colab | 🟢 [Repo](https://github.com/ghassan-gaidi/finetune-lab) |
 
 ---
