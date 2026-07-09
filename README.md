@@ -2,9 +2,7 @@
 
 # Ghassan Gaidi
 
-**I build autonomous systems — crypto pipelines, AI backends, developer tools — that generate value while I sleep.**
-
-`broke but building · 0→1 · gasless · no shortcuts`
+**Full-stack engineer building autonomous systems — AI agent infrastructure, crypto platforms, and developer tools.**
 
 [![GitHub](https://img.shields.io/badge/github-ghassan--gaidi-181717?style=flat&logo=github&labelColor=0d0d0d)](https://github.com/ghassan-gaidi)
 [![Portfolio](https://img.shields.io/badge/portfolio-ghassan.tech-181717?style=flat&labelColor=0d0d0d)](https://ghassan.tech)
@@ -15,40 +13,72 @@
 
 ---
 
-## 🔭 Current Focus
+## Projects
 
-Building autonomous revenue pipelines, AI agent infrastructure, and developer tools. Shipping to production from zero capital.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Neura](https://github.com/ghassan-gaidi/neura)
+AI agent backend and SDK — the external brain layer for autonomous agents. Provides persistent memory, tool orchestration, and cross-session context via published SDKs.
+
+`Next.js` `Supabase` `Base USDC`
+
+[Live](https://neura-blond.vercel.app) · [npm](https://www.npmjs.com/package/neura-api) · [PyPI](https://pypi.org/project/neura-api/)
+
+</td>
+<td width="50%" valign="top">
+
+### [drops.codes](https://github.com/ghassan-gaidi/drops.codes)
+File sharing platform with upload, sharing, analytics, and integrated payments. End-to-end from storage to checkout.
+
+`Next.js 16` `Supabase` `Dodo Payments`
+
+[Live](https://dropscodes.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Dominion](https://github.com/ghassan-gaidi/crypto-empire)
+Crypto intelligence dashboard and Telegram bot with premium subscriptions, price alerts, and portfolio tracking.
+
+`Flask` `CoinGecko` `Polar.sh`
+
+[Live](https://crypto-empire-ten.vercel.app) · [Telegram](https://t.me/Crypt0Emp1reBot)
+
+</td>
+<td width="50%" valign="top">
+
+### [PICKR](https://github.com/ghassan-gaidi/crypto-casino-tg)
+Multi-chain crypto casino on Telegram. 9 provably fair games, on-chain settlements, and a Telegram Mini App frontend.
+
+`TypeScript` `grammY` `Supabase`
+
+[Live](https://crypto-casino-tg.vercel.app) · [Telegram](https://t.me/cr00k_bot)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
-
-| Project | What It Does | Stack | Status |
-|---------|-------------|-------|--------|
-| **[🧠 Neura](https://github.com/ghassan-gaidi/neura)** | AI Agent Backend + SDKs — external brain for autonomous agents | Next.js, Supabase, Base USDC | 🟢 [Live](https://neura-blond.vercel.app) · [npm](https://www.npmjs.com/package/neura-api) · [PyPI](https://pypi.org/project/neura-api/) |
-| **[📁 drops.codes](https://github.com/ghassan-gaidi/drops.codes)** | File sharing platform — upload, share, track, with payments | Next.js 16, Supabase, Dodo Payments | 🟢 [Live](https://dropscodes.vercel.app) |
-| **[Dominion](https://github.com/ghassan-gaidi/crypto-empire)** | Crypto dashboard + Telegram bot with premium subscriptions | Flask, Python, CoinGecko, Polar.sh | 🟢 [Live](https://crypto-empire-ten.vercel.app) · [@Crypt0Emp1reBot](https://t.me/Crypt0Emp1reBot) |
-| **[PICKR](https://github.com/ghassan-gaidi/crypto-casino-tg)** | Multi-chain crypto casino inside Telegram — 9 provably fair games | React, TypeScript, Web3, Telegram Mini App | 🟢 [Live](https://crypto-casino-tg.vercel.app) · [@cr00k_bot](https://t.me/cr00k_bot) |
-| **[🧪 Finetune Lab](https://github.com/ghassan-gaidi/finetune-lab)** | LLM fine-tuning notebooks on free GPUs (Colab, Kaggle) — no paid compute | Python, LoRA/QLoRA, Colab | 🟢 [Repo](https://github.com/ghassan-gaidi/finetune-lab) |
-
----
-
-## 🛠️ Stack
+## Stack
 
 ```
 Languages    Python · TypeScript · JavaScript · Solidity
 Frameworks   Next.js 16 · React 18 · Flask 3.0 · Vite
-DB/Infra     Supabase (Postgres) · Vercel · GitHub Actions
+DB/Infra     Supabase · Vercel · GitHub Actions
 Blockchain   Ethereum · Base · Arbitrum · Polygon · TON · Solana
 Payments     Base USDC · Dodo Payments · Polar.sh
-AI/ML        LoRA · QLoRA · fine-tuning · LLM agent infrastructure
-Design       Brutalist monochrome · JetBrains Mono · zero border-radius
-SDKs Shipped neura-api (npm) · neura-api-python (PyPI)
+AI/ML        LLM agent infrastructure · LoRA/QLoRA fine-tuning
+SDKs         neura-api (npm) · neura-api-python (PyPI)
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -62,18 +92,10 @@ SDKs Shipped neura-api (npm) · neura-api-python (PyPI)
 
 ---
 
-## 🌐 Connect
+<div align="center">
 
 [![Email](https://img.shields.io/badge/leo2574@proton.me-181717?style=flat&logo=protonmail&labelColor=0d0d0d)](mailto:leo2574@proton.me)
 [![Telegram](https://img.shields.io/badge/@le0Fvlc0-181717?style=flat&logo=telegram&labelColor=0d0d0d)](https://t.me/le0Fvlc0)
 [![LinkedIn](https://img.shields.io/badge/ghassan--gaidi-181717?style=flat&logo=linkedin&labelColor=0d0d0d)](https://linkedin.com/in/ghassan-gaidi-4637b3319)
-
-</div>
-
----
-
-<div align="center">
-
-*Zero starting capital. Zero shortcuts. Shipping from nothing.*
 
 </div>
