@@ -63,12 +63,22 @@ Fine-tuning LLMs on Google Colab free tier — LoRA, QLoRA, notebooks. No paid G
 <tr>
 <td width="50%" valign="top">
 
-### 🟡 [streak](https://github.com/ghassan-gaidi/streak)
+### 🟢 [streak](https://github.com/ghassan-gaidi/streak)
 Real-time crypto price feeds and market data API.
 
 `Python` `CoinGecko` `API`
 
 </td>
+<td width="50%" valign="top">
+
+### 🟢 [Microstrip Patch Antenna](https://github.com/ghassan-gaidi/microstrip-patch-antenna-2.4ghz-matlab)
+Square microstrip patch antenna design at 2.4 GHz — FR4 substrate, full RF characterization using MATLAB Antenna Toolbox.
+
+`MATLAB` `RF` `ISM Band` `Simulation`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔒 [PICKR](https://t.me/cr00k_bot)
@@ -79,8 +89,6 @@ Multi-chain crypto casino on Telegram — 9 provably fair games, on-chain settle
 [Telegram](https://t.me/cr00k_bot)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔒 [Dominion](https://crypto-empire-ten.vercel.app)
@@ -91,6 +99,8 @@ Crypto intelligence dashboard + Telegram bot — live prices, portfolio tracking
 [Live](https://crypto-empire-ten.vercel.app) · [Telegram](https://t.me/Crypt0Emp1reBot)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔒 [Crypto Experiment](https://github.com/ghassan-gaidi/crypto-experiment)
@@ -98,6 +108,8 @@ Autonomous gasless revenue pipeline — quest farming, testnet farming, dust con
 
 `Python` `Ethereum` `GitHub Actions`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -107,13 +119,14 @@ Autonomous gasless revenue pipeline — quest farming, testnet farming, dust con
 ## Stack
 
 ```
-Languages    Python · TypeScript · JavaScript · Solidity
+Languages    Python · TypeScript · JavaScript · Solidity · MATLAB
 Frameworks   Next.js 16 · React 18 · Flask 3.0 · Vite · grammY
 DB/Infra     Supabase · Vercel · Cloudflare Workers · GitHub Actions
 Blockchain   Ethereum · Base · Arbitrum · Polygon · TON · Solana
 Payments     Base USDC · Dodo Payments · Polar.sh
 AI/ML        LLM agent infra · LoRA/QLoRA fine-tuning · RAG
 SDKs         neura-api (npm) · neura-api (PyPI)
+RF/Antenna   MATLAB Antenna Toolbox · ISM Band · RF Characterization
 ```
 
 ---
