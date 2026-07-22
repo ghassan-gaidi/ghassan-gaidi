@@ -2,7 +2,7 @@
 
 # Ghassan Gaidi
 
-**Full-stack engineer building autonomous systems — AI agent infrastructure, crypto platforms, and developer tools.**
+**Building autonomous systems — AI agent infrastructure, crypto revenue pipelines, and developer tools.**
 
 [![GitHub](https://img.shields.io/badge/github-ghassan--gaidi-181717?style=flat&logo=github&labelColor=0d0d0d)](https://github.com/ghassan-gaidi)
 [![Portfolio](https://img.shields.io/badge/portfolio-ghassan.tech-181717?style=flat&labelColor=0d0d0d)](https://ghassan.tech)
@@ -13,24 +13,28 @@
 
 ---
 
-## Projects
+**Currently:** Building autonomous revenue systems — gasless crypto pipelines, AI agent infrastructure, and zero-capital automation. Shipping fast, measuring everything.
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Neura](https://github.com/ghassan-gaidi/neura)
-AI agent backend and SDK — the external brain layer for autonomous agents. Provides persistent memory, tool orchestration, and cross-session context via published SDKs.
+### 🟢 [Neura](https://github.com/ghassan-gaidi/neura)
+AI agent backend and SDK — the external brain layer for autonomous agents. Persistent memory, tool orchestration, cross-session context.
 
-`Next.js` `Supabase` `Base USDC`
+`Next.js` `Supabase` `TypeScript` `Python`
 
 [Live](https://neura-blond.vercel.app) · [npm](https://www.npmjs.com/package/neura-api) · [PyPI](https://pypi.org/project/neura-api/)
 
 </td>
 <td width="50%" valign="top">
 
-### [drops.codes](https://github.com/ghassan-gaidi/drops.codes)
-File sharing platform with upload, sharing, analytics, and integrated payments. End-to-end from storage to checkout.
+### 🟢 [drops.codes](https://github.com/ghassan-gaidi/drops.codes)
+File sharing platform — upload, share, track, and monetize. End-to-end from storage to payment.
 
 `Next.js 16` `Supabase` `Dodo Payments`
 
@@ -41,8 +45,46 @@ File sharing platform with upload, sharing, analytics, and integrated payments. 
 <tr>
 <td width="50%" valign="top">
 
-### [Dominion](https://github.com/ghassan-gaidi/crypto-empire)
-Crypto intelligence dashboard and Telegram bot with premium subscriptions, price alerts, and portfolio tracking.
+### 🟢 [finetune-lab](https://github.com/ghassan-gaidi/finetune-lab)
+Fine-tuning LLMs on Google Colab free tier — LoRA, QLoRA, notebooks. No paid GPUs required.
+
+`Python` `Colab` `Hugging Face` `TRL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 [cyber-mastery](https://github.com/ghassan-gaidi/cyber-mastery)
+754 curated cybersecurity skills + 14 synthesis docs. Offensive, defensive, architectural. MIT licensed.
+
+`Security` `MITRE ATT&CK` `Offensive` `Defensive`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟡 [streak](https://github.com/ghassan-gaidi/streak)
+Real-time crypto price feeds and market data API.
+
+`Python` `CoinGecko` `API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 [PICKR](https://t.me/cr00k_bot)
+Multi-chain crypto casino on Telegram — 9 provably fair games, on-chain settlements, Mini App frontend.
+
+`TypeScript` `grammY` `Supabase`
+
+[Telegram](https://t.me/cr00k_bot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 [Dominion](https://crypto-empire-ten.vercel.app)
+Crypto intelligence dashboard + Telegram bot — live prices, portfolio tracking, premium features.
 
 `Flask` `CoinGecko` `Polar.sh`
 
@@ -51,12 +93,10 @@ Crypto intelligence dashboard and Telegram bot with premium subscriptions, price
 </td>
 <td width="50%" valign="top">
 
-### [PICKR](https://github.com/ghassan-gaidi/crypto-casino-tg)
-Multi-chain crypto casino on Telegram. 9 provably fair games, on-chain settlements, and a Telegram Mini App frontend.
+### 🔒 [Crypto Experiment](https://github.com/ghassan-gaidi/crypto-experiment)
+Autonomous gasless revenue pipeline — quest farming, testnet farming, dust consolidation. Zero capital.
 
-`TypeScript` `grammY` `Supabase`
-
-[Live](https://crypto-casino-tg.vercel.app) · [Telegram](https://t.me/cr00k_bot)
+`Python` `Ethereum` `GitHub Actions`
 
 </td>
 </tr>
@@ -68,12 +108,12 @@ Multi-chain crypto casino on Telegram. 9 provably fair games, on-chain settlemen
 
 ```
 Languages    Python · TypeScript · JavaScript · Solidity
-Frameworks   Next.js 16 · React 18 · Flask 3.0 · Vite
-DB/Infra     Supabase · Vercel · GitHub Actions
+Frameworks   Next.js 16 · React 18 · Flask 3.0 · Vite · grammY
+DB/Infra     Supabase · Vercel · Cloudflare Workers · GitHub Actions
 Blockchain   Ethereum · Base · Arbitrum · Polygon · TON · Solana
 Payments     Base USDC · Dodo Payments · Polar.sh
-AI/ML        LLM agent infrastructure · LoRA/QLoRA fine-tuning
-SDKs         neura-api (npm) · neura-api-python (PyPI)
+AI/ML        LLM agent infra · LoRA/QLoRA fine-tuning · RAG
+SDKs         neura-api (npm) · neura-api (PyPI)
 ```
 
 ---
