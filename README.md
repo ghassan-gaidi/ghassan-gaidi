@@ -167,6 +167,37 @@ mindmap
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #1a1a2e; border-radius: 0px; padding: 16px; background: #0d0d14;">
 
+#### 🟢 [Cyrus Relay](https://github.com/ghassan-gaidi/cyrus-relay)
+> OpenAI-compatible LLM relay — free tier, crypto-only billing, no KYC
+
+```
+ free_tier  │  usdc_settlement  │  instant_keys
+```
+
+[![Storefront](https://img.shields.io/badge/Live-storefront-DC2626?style=flat-square&labelColor=0d0d0d)](https://ghassan-gaidi.github.io/cyrus-relay/)
+[![API](https://img.shields.io/badge/OpenAI--compatible-v1-4ade80?style=flat-square&labelColor=0d0d0d)](https://ghassan-gaidi.github.io/cyrus-relay/)
+![Billing](https://img.shields.io/badge/Crypto--only-USDC%2FUSDT-FFB800?style=flat-square&labelColor=0d0d0d)
+
+`Python` `stdlib` `cloudflared` `GitHub Pages`
+
+</td>
+<td width="50%" valign="top" style="border: 1px solid #1a1a2e; border-radius: 0px; padding: 16px; background: #0d0d14;">
+
+#### 🟢 [free-llm-api-list](https://github.com/ghassan-gaidi/free-llm-api-list)
+> The honest list of free & no-KYC LLM APIs — limits, gotchas, who each is for
+
+```
+ curated  │  no_affiliates  │  community_updated
+```
+
+![List](https://img.shields.io/badge/Type-curated__list-7C3AED?style=flat-square&labelColor=0d0d0d)
+![Scope](https://img.shields.io/badge/Focus-free%2Fno--KYC-38bdf8?style=flat-square&labelColor=0d0d0d)
+
+`research` `documentation`
+
+</td>
+<td width="50%" valign="top" style="border: 1px solid #1a1a2e; border-radius: 0px; padding: 16px; background: #0d0d14;">
+
 #### 🟢 [Neura](https://github.com/ghassan-gaidi/neura)
 > AI agent backend and SDK — the external brain layer for autonomous agents
 
