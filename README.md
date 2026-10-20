@@ -19,7 +19,7 @@
 
   <line x1="120" y1="94" x2="640" y2="94" stroke="url(#ruleGrad)" stroke-width="1.5"/>
 
-  <text x="380" y="124" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#9ca3af">backend &amp; security engineer</text>
+  <text x="380" y="124" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#9ca3af">backend &amp; security and AI engineer</text>
   <text x="380" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#6b7280">Rust <tspan fill="#DC2626">·</tspan> Python <tspan fill="#DC2626">·</tspan> TypeScript</text>
 </svg>
 
@@ -40,7 +40,7 @@ Final-year ICT student (graduating June 2027) who builds and ships **backend and
 
 ---
 
-> ⚡ **Open to remote junior software engineering roles** (backend / security / systems) — available June 2027, open to relocation.
+> ⚡ **Open to remote junior software engineering roles** (AI / backend / security / systems) — available June 2027, open to relocation.
 
 
 ## Featured Work
