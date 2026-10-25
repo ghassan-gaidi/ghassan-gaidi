@@ -24,7 +24,7 @@
 </svg>
 
 <p>
-  <a href="https://ghassan.tech"><img src="https://img.shields.io/badge/ghassan.dev-DC2626?style=flat-square&logo=googlechrome&logoColor=white" alt="ghassan.dev"></a>
+  <a href="https://ghassan.tech"><img src="https://img.shields.io/badge/ghassan.tech-DC2626?style=flat-square&logo=googlechrome&logoColor=white" alt="ghassan.tech"></a>
   <a href="mailto:gg2574@proton.me"><img src="https://img.shields.io/badge/email-gg2574%40proton.me-6b7280?style=flat-square&logo=protonmail&logoColor=white" alt="email"></a>
   <img src="https://img.shields.io/badge/location-Bizerte%2C_Tunisia-6b7280?style=flat-square" alt="Bizerte, Tunisia">
   <img src="https://img.shields.io/badge/status-%E2%9A%A1%20open%20to%20remote%20roles-00ff41?style=flat-square" alt="Open to remote roles">
