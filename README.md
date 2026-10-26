@@ -19,7 +19,7 @@
 
   <line x1="120" y1="94" x2="640" y2="94" stroke="url(#ruleGrad)" stroke-width="1.5"/>
 
-  <text x="380" y="124" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#9ca3af">backend &amp; security and AI engineer</text>
+  <text x="380" y="124" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#9ca3af">backend &amp; security engineer — money &amp; secrets, proven correct</text>
   <text x="380" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#6b7280">Rust <tspan fill="#DC2626">·</tspan> Python <tspan fill="#DC2626">·</tspan> TypeScript</text>
 </svg>
 
@@ -40,7 +40,7 @@ Final-year ICT student (graduating June 2027) who builds and ships **backend and
 
 ---
 
-> ⚡ **Open to remote junior software engineering roles** (AI / backend / security / systems) — available June 2027, open to relocation.
+> ⚡ **Available for internships, part-time & contract engagements (20–30 h/wk) immediately — full-time from June 2027. Open to relocation.**
 
 
 ## Featured Work
@@ -161,7 +161,7 @@ Université de Carthage, Faculté des Sciences de Bizerte
 
 `$ whoami`
 
-**ghassan.dev** · [github.com/ghassan-gaidi](https://github.com/ghassan-gaidi) · [linkedin.com/in/ghassan-gaidi](https://linkedin.com/in/ghassan-gaidi-4637b3319) · [gg2574@proton.me](mailto:gg2574@proton.me)
+**ghassan.tech** · [github.com/ghassan-gaidi](https://github.com/ghassan-gaidi) · [linkedin.com/in/ghassan-gaidi](https://linkedin.com/in/ghassan-gaidi-4637b3319) · [gg2574@proton.me](mailto:gg2574@proton.me)
 
 <sub>PGP: A060 94AB E482 FB77 C67F F0F2 1266 E7E4 3803 2BD1</sub>
 
